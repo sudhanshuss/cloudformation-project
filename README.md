@@ -28,9 +28,6 @@
     $ ./create.sh infrastructure infrastructure.yml infrastructure-params.json
     ```
     ```
-    $ ./create.sh networks networks.yml networks-params.json
-    ```
-    ```
      $ ./create.sh servers servers.yml servers-params.json
     ```
 ## Test
